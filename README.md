@@ -1,4 +1,4 @@
-- 🌟 Hi, I’m Sriza Paul!
+- 🌟 Hi, I’m <U>Sriza Paul!<U>
 - 👀Interests: I’m passionate about exploring cutting-edge technologies, solving real-world problems, and growing my skills every day.
 - 🌱 Currently Learning: Diving deep into AI/ML, Web Development, and Open Source contributions.
 - 💞️ I am looking to Collaborate On: Open Source projects, innovative ideas, and community-driven initiatives.
